@@ -1,0 +1,1 @@
+//create a bunch of people to be the contestants Ooh, it's been forever since I made object constructors!
